@@ -10,3 +10,6 @@ This is a complete project series to learn data science and machine learning usi
 ## Table of Contents
 * [Linear Regression Analysis in R](https://github.com/ravichaubey/Data-Science-with-R/tree/main/Linear%20Regression)
 * [Logistic Regression Analysis in R](https://github.com/ravichaubey/Data-Science-with-R/tree/main/Logistic%20Regression)
+* [Decision Tree Classifier in R](https://github.com/ravichaubey/Data-Science-with-R/tree/main/Decision%20Tree%20Classifier)
+* [KMeans Clustering Analysis in R](https://github.com/ravichaubey/Data-Science-with-R/tree/main/KMeans%20Clustering%20Analysis%20in%20R)
+* [Association Analysis in R](https://github.com/ravichaubey/Data-Science-with-R/tree/main/Association%20Analysis%20in%20R)
